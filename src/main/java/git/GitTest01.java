@@ -6,6 +6,7 @@ package git;
  */
 public class GitTest01 {
     public static void main(String[] args) {
+        System.out.println("test clone02");
         System.out.println("猪币吧 这怎么这么菜啊");
         System.out.println("hot-fix test");
         System.out.println("insert master");
