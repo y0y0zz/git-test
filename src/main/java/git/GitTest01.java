@@ -13,5 +13,6 @@ public class GitTest01 {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("pull test02 clone");
+        System.out.println("test push gitee");
     }
 }
